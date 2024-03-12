@@ -1,0 +1,4 @@
+Airline Name,Flight Number,Origin,Destination,Airfare,Departure Time,Arrival Time,Available Seats
+Jetstar,1126,Melbourne,Gold Coast,100.00,10:00,12:00,200
+Virgin,456,Adelaide,Sydney,150.00,11:00,13:00,150
+Quantas,789,Hobart,Melbourne,200.00,12:00,14:00,100

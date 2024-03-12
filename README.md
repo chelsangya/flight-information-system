@@ -1,4 +1,4 @@
-Flight Information System
+**Flight Information System**
 
 Description:
 The Flight Information System is a Java-based application designed to manage and display flight information. It provides users with functionalities to view flights, search for flights by airline name or flight number, and export flight information to a CSV file. The system is built using Java Swing for the graphical user interface and follows the Model-View-Controller (MVC) architecture for better organization and maintainability of code.
